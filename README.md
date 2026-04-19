@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**OG4105/OG4105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year **Web and Mobile Computing** student at [RIT Croatia](https://www.rit.edu/croatia/) in Zagreb. Learning full-stack development, currently most interested in frontend/UX and backend logic.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- A Cordova-based mobile app (weather + location + custom features) for my hybrid mobile app development course
+- Java + MySQL projects for ISTE-330 Database Connectivity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Tech I work with
+**Languages:** Java · Python · JavaScript · C# · PHP · SQL  
+**Frontend:** HTML · CSS · React · Cordova  
+**Backend & DB:** Java · MySQL · MySQL Workbench  
+**Tools:** Git · GitHub · GitLab · Android Studio · VS Code
+
+### 🎯 Looking for
+Co-op / internship opportunities in Zagreb (summer 2026 onwards) — open to frontend, backend, full-stack, or general IT roles where I can learn from experienced mentors.
+
+### 📫 How to reach me
+- Email: omargradascevic05@gmail.com
+- LinkedIn: https://www.linkedin.com/in/omar-gradaščević-b1a67138b?utm_source=share_via&utm_content=profile&utm_medium=member_android
